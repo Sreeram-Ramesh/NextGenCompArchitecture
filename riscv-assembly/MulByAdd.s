@@ -1,0 +1,5 @@
+.data
+.dword 0x0050 0x0020
+
+.text
+lui x7, 0x10000
