@@ -1,0 +1,142 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 50000000
+Simulation Instructions: 200000000
+Number of CPUs: 1
+LLC sets: 8192
+LLC ways: 8
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /home/riscv/Documents/NextGenCompArch/Memory/ChampSim-master/dpc3_traces/401.bzip2-277B.champsimtrace.xz
+CPU 0 Bimodal branch predictor
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b14dc0dfff
+Heartbeat CPU 0 instructions: 10000002 cycles: 2810906 heartbeat IPC: 3.55757 cumulative IPC: 3.55757 (Simulation time: 0 hr 0 min 6 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b14dc0ffff
+Heartbeat CPU 0 instructions: 20000001 cycles: 5644757 heartbeat IPC: 3.52877 cumulative IPC: 3.54311 (Simulation time: 0 hr 0 min 14 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+Heartbeat CPU 0 instructions: 30000003 cycles: 8910637 heartbeat IPC: 3.06196 cumulative IPC: 3.36676 (Simulation time: 0 hr 0 min 26 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+Heartbeat CPU 0 instructions: 40000002 cycles: 12187881 heartbeat IPC: 3.05134 cumulative IPC: 3.28195 (Simulation time: 0 hr 0 min 39 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+Heartbeat CPU 0 instructions: 50000002 cycles: 15451945 heartbeat IPC: 3.06367 cumulative IPC: 3.23584 (Simulation time: 0 hr 0 min 51 sec) 
+
+Warmup complete CPU 0 instructions: 50000002 cycles: 15451945 (Simulation time: 0 hr 0 min 51 sec) 
+
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+Heartbeat CPU 0 instructions: 60000000 cycles: 25691132 heartbeat IPC: 0.97664 cumulative IPC: 0.97664 (Simulation time: 0 hr 0 min 58 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+Heartbeat CPU 0 instructions: 70000001 cycles: 34264638 heartbeat IPC: 1.16638 cumulative IPC: 1.06311 (Simulation time: 0 hr 1 min 5 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b14dc11fff
+Heartbeat CPU 0 instructions: 80000001 cycles: 40889040 heartbeat IPC: 1.50957 cumulative IPC: 1.17938 (Simulation time: 0 hr 1 min 12 sec) 
+Heartbeat CPU 0 instructions: 90000000 cycles: 47093820 heartbeat IPC: 1.61166 cumulative IPC: 1.26415 (Simulation time: 0 hr 1 min 18 sec) 
+Heartbeat CPU 0 instructions: 100000002 cycles: 56724814 heartbeat IPC: 1.03831 cumulative IPC: 1.21145 (Simulation time: 0 hr 1 min 26 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+Heartbeat CPU 0 instructions: 110000000 cycles: 66158678 heartbeat IPC: 1.06001 cumulative IPC: 1.18327 (Simulation time: 0 hr 1 min 33 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+Heartbeat CPU 0 instructions: 120000002 cycles: 75473461 heartbeat IPC: 1.07356 cumulative IPC: 1.16625 (Simulation time: 0 hr 1 min 41 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+Heartbeat CPU 0 instructions: 130000002 cycles: 84803279 heartbeat IPC: 1.07183 cumulative IPC: 1.15355 (Simulation time: 0 hr 1 min 48 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+Heartbeat CPU 0 instructions: 140000001 cycles: 92677723 heartbeat IPC: 1.26993 cumulative IPC: 1.16541 (Simulation time: 0 hr 1 min 55 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x29f422b3fff
+Heartbeat CPU 0 instructions: 150000003 cycles: 98196799 heartbeat IPC: 1.8119 cumulative IPC: 1.20853 (Simulation time: 0 hr 2 min 1 sec) 
+Heartbeat CPU 0 instructions: 160000000 cycles: 105136815 heartbeat IPC: 1.44092 cumulative IPC: 1.22652 (Simulation time: 0 hr 2 min 8 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+Heartbeat CPU 0 instructions: 170000002 cycles: 114863917 heartbeat IPC: 1.02806 cumulative IPC: 1.2071 (Simulation time: 0 hr 2 min 15 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+Heartbeat CPU 0 instructions: 180000000 cycles: 123703669 heartbeat IPC: 1.13125 cumulative IPC: 1.2009 (Simulation time: 0 hr 2 min 23 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+Heartbeat CPU 0 instructions: 190000000 cycles: 132795894 heartbeat IPC: 1.09984 cumulative IPC: 1.19307 (Simulation time: 0 hr 2 min 30 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+Heartbeat CPU 0 instructions: 200000001 cycles: 142375413 heartbeat IPC: 1.04389 cumulative IPC: 1.18181 (Simulation time: 0 hr 2 min 38 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc07fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a7fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x22b4cc09fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x3b8c2ee3fff
+Heartbeat CPU 0 instructions: 210000002 cycles: 149551633 heartbeat IPC: 1.39349 cumulative IPC: 1.19314 (Simulation time: 0 hr 2 min 44 sec) 
+Heartbeat CPU 0 instructions: 220000000 cycles: 155147772 heartbeat IPC: 1.78695 cumulative IPC: 1.21693 (Simulation time: 0 hr 2 min 50 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x3b8c2ee5fff
+Heartbeat CPU 0 instructions: 230000001 cycles: 162824302 heartbeat IPC: 1.30267 cumulative IPC: 1.2214 (Simulation time: 0 hr 2 min 57 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x35e798a9fff
+Heartbeat CPU 0 instructions: 240000003 cycles: 172736401 heartbeat IPC: 1.00887 cumulative IPC: 1.208 (Simulation time: 0 hr 3 min 5 sec) 
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x2884c87fff
+[LLC_DEBUG] Remapping set 0 to set 8191 for address: 0x1b1bc793fff
+Heartbeat CPU 0 instructions: 250000001 cycles: 182411803 heartbeat IPC: 1.03355 cumulative IPC: 1.19789 (Simulation time: 0 hr 3 min 13 sec) 
+Finished CPU 0 instructions: 200000001 cycles: 166959859 cumulative IPC: 1.19789 (Simulation time: 0 hr 3 min 13 sec) 
+
+ChampSim completed all CPUs
+
+Region of Interest Statistics
+
+CPU 0 cumulative IPC: 1.19789 instructions: 200000001 cycles: 166959859
+L1D TOTAL     ACCESS:   48826868  HIT:   47360029  MISS:    1466839
+L1D LOAD      ACCESS:   29450769  HIT:   28174383  MISS:    1276386
+L1D RFO       ACCESS:   19376099  HIT:   19185646  MISS:     190453
+L1D PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1D WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1D PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1D AVERAGE MISS LATENCY: 38.2316 cycles
+L1I TOTAL     ACCESS:   33355747  HIT:   33355738  MISS:          9
+L1I LOAD      ACCESS:   33355747  HIT:   33355738  MISS:          9
+L1I RFO       ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1I WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1I AVERAGE MISS LATENCY: 215.889 cycles
+L2C TOTAL     ACCESS:    1807652  HIT:     876467  MISS:     931185
+L2C LOAD      ACCESS:    1276389  HIT:     502834  MISS:     773555
+L2C RFO       ACCESS:     190453  HIT:      33074  MISS:     157379
+L2C PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L2C WRITEBACK ACCESS:     340810  HIT:     340559  MISS:        251
+L2C PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L2C AVERAGE MISS LATENCY: 36.5652 cycles
+LLC TOTAL     ACCESS:    1222014  HIT:    1181459  MISS:      40555
+LLC LOAD      ACCESS:     773555  HIT:     767634  MISS:       5921
+LLC RFO       ACCESS:     157378  HIT:     122769  MISS:      34609
+LLC PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+LLC WRITEBACK ACCESS:     291081  HIT:     291056  MISS:         25
+LLC PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+LLC AVERAGE MISS LATENCY: 150.224 cycles
+Major fault: 0 Minor fault: 1546
+
+DRAM Statistics
+ CHANNEL 0
+ RQ ROW_BUFFER_HIT:      12938  ROW_BUFFER_MISS:      27592
+ DBUS_CONGESTED:      20621
+ WQ ROW_BUFFER_HIT:      18898  ROW_BUFFER_MISS:      10209  FULL:          0
+
+ AVG_CONGESTED_CYCLE: 6
+
+CPU 0 Branch Prediction Accuracy: 91.3383% MPKI: 13.5297 Average ROB Occupancy at Mispredict: 18.8916
+
+Branch types
+NOT_BRANCH: 168759498 84.3797%
+BRANCH_DIRECT_JUMP: 2596638 1.29832%
+BRANCH_INDIRECT: 76 3.8e-05%
+BRANCH_CONDITIONAL: 28637044 14.3185%
+BRANCH_DIRECT_CALL: 3203 0.0016015%
+BRANCH_INDIRECT_CALL: 0 0%
+BRANCH_RETURN: 3203 0.0016015%
+BRANCH_OTHER: 0 0%
+
