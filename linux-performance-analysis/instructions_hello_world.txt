@@ -1,0 +1,12 @@
+
+ Performance counter stats for 'gcc -o ./helloworld.exe ../../C_Programming/helloworld.c':
+
+       6,33,68,356      cpu_atom/instructions/                                                  (89.03%)
+      14,15,57,864      cpu_core/instructions/                                                  (53.98%)
+
+       0.054703912 seconds time elapsed
+
+       0.035127000 seconds user
+       0.019698000 seconds sys
+
+

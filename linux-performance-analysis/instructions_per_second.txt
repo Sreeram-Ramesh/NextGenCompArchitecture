@@ -1,0 +1,12 @@
+
+ Performance counter stats for 'sleep 1':
+
+         13,22,956      cpu_atom/instructions/                                                
+     <not counted>      cpu_core/instructions/                                                  (0.00%)
+
+       1.002070316 seconds time elapsed
+
+       0.000000000 seconds user
+       0.001780000 seconds sys
+
+
