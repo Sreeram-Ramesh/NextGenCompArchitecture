@@ -1,0 +1,19 @@
+
+ Performance counter stats for 'sleep 1':
+
+          6,84,000 ns   user_time                                                             
+         20,53,000 ns   system_time                                                           
+    1,00,30,13,717 ns   duration_time                                                         
+         13,19,436      cpu_atom/instructions/           #    0.74  insn per cycle            
+     <not counted>      cpu_core/instructions/                                                  (0.00%)
+         17,85,393      cpu_atom/cycles/                                                      
+     <not counted>      cpu_core/cycles/                                                        (0.00%)
+            22,705      cpu_atom/cache-misses/                                                
+     <not counted>      cpu_core/cache-misses/                                                  (0.00%)
+
+       1.003013717 seconds time elapsed
+
+       0.000684000 seconds user
+       0.002053000 seconds sys
+
+

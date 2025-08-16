@@ -1,0 +1,12 @@
+
+ Performance counter stats for '/home/riscv/riscv/riscv64-unknown-elf/bin/as -o GreatestCommonDivisor.o ../riscv-assembly/Lab1_Sreeram.s':
+
+     <not counted>      cpu_atom/instructions/                                                  (0.00%)
+         66,58,276      cpu_core/instructions/                                                
+
+       0.006054144 seconds time elapsed
+
+       0.003005000 seconds user
+       0.003005000 seconds sys
+
+
